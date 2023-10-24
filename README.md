@@ -18,7 +18,7 @@ Single Cycle Execution: Each instruction is executed in a single clock cycle.
 * Program Counter (PC): Keeps track of the memory address of the current instruction.
 * RAM:stores and reads data by accessing it through address 
 * ROM:stores the program we want to execute
-* 
+
 
 
 
